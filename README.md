@@ -36,18 +36,8 @@ A simple Quora-style fullstack web application that allows users to create, read
 ## 📁 Project Structure
 # fullstack-rest-api-project
 This project is a Fullstack REST API-based CRUD application built using Node.js, Express.js, and EJS templating engine. It allows users to perform Create, Read, Update, and Delete (CRUD) operations on Quora-style posts.The backend handles routing using RESTful principles, while the frontend is rendered using server-side EJS views. 
-├── index.js # Main server file
-├── package.json
-├── public/
-│ └── style.css # CSS for frontend styling
-├── views/ # EJS templates
-│ ├── index.ejs
-│ ├── new.ejs
-│ ├── edit.ejs
-│ └── show.ejs
-
-
-
+  
+  
 
 
 
